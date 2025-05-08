@@ -1,16 +1,39 @@
-# projectflutter
+# FLUTTER CALCULATOR
+## Deskripsi Aplikasi
+Kalkulator Flutter adalah aplikasi sederhana yang memungkinkan pengguna melakukan perhitungan matematika dasar dengan mudah. Aplikasi ini memiliki fitur:
 
-A new Flutter project.
+- *Operasi matematika dasar (+, -, ×, ÷)*
+- *Riwayat perhitungan*
+- *Tampilan profil pengguna*
+Aplikasi ini dibuat menggunakan Flutter dengan desain yang responsif dan mudah digunakan.
 
-## Getting Started
+## Software Yang Digunakan
+- **Flutter** (Dart)
+- **Pakage:** math_expressions
 
-This project is a starting point for a Flutter application.
+## Get Started
+Here's what you need to run Kalkulator:
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter (version: 3.27.4)
+- Visual Studio Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 1. Clone the repository
+```bash
+  git clone https://github.com/zeusyee/kalkulator.git
+  cd calculator
+```
+## 2. Run the project
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+
+https://github.com/user-attachments/assets/4779f29d-f59e-4b8d-abe6-470f7a135260
+
+
+## Identitas
+- **NAMA:**     FARIZAL GUNTORO NUGROHO
+- **KELAS:**    XI RPL 2
+- **ABSEN:**    11
+- **SEKOLAH:**  SMKN 1 BANTUL
