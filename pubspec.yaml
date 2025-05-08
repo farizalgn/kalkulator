@@ -1,0 +1,23 @@
+name: calculator_app
+description: A simple calculator app
+
+publish_to: 'none' # Remove this line if you're publishing to the app store
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/asset/calculator.png
+
+flutter_native_splash:
+  android: true
+  ios: true
+  color: "#ffffff"  # Splash screen background color (white)
+  image: lib/asset/calculator.png"  # Path to your splash screen image
